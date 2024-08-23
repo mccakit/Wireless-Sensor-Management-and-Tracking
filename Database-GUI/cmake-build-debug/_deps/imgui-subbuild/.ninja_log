@@ -1,0 +1,21 @@
+# ninja log v6
+1	55	7461047880829903	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-mkdir	670b1afd15648b27
+1	55	7461047880829903	C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-mkdir	670b1afd15648b27
+55	66307	7461048543358281	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-download	f60002864c12e46d
+55	66307	7461048543358281	C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-download	f60002864c12e46d
+66308	66426	7461048543408110	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update	a181741a846d1c4e
+66308	66426	7461048543408110	C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-update	a181741a846d1c4e
+66426	66467	7461048544962936	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch	6f573816cd1879bf
+66426	66467	7461048544962936	C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-patch	6f573816cd1879bf
+66468	66510	7461048545391504	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure	f1e0ccc589283467
+66468	66510	7461048545391504	C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-configure	f1e0ccc589283467
+66511	66554	7461048545830042	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build	12490d16c4ccfb2b
+66511	66554	7461048545830042	C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-build	12490d16c4ccfb2b
+66554	66595	7461048546238658	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install	2a10c7919bbeed74
+66554	66595	7461048546238658	C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-install	2a10c7919bbeed74
+66595	66639	7461048546679077	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test	704ebce50d1ef040
+66595	66639	7461048546679077	C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-test	704ebce50d1ef040
+66639	66697	7461048547263341	CMakeFiles/imgui-populate-complete	d800460b1c2d4c45
+66639	66697	7461048547263341	imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-done	d800460b1c2d4c45
+66639	66697	7461048547263341	C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/imgui-subbuild/CMakeFiles/imgui-populate-complete	d800460b1c2d4c45
+66639	66697	7461048547263341	C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/imgui-subbuild/imgui-populate-prefix/src/imgui-populate-stamp/imgui-populate-done	d800460b1c2d4c45

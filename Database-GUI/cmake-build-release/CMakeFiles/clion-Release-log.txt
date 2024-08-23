@@ -1,0 +1,52 @@
+"C:\Program Files\JetBrains\CLion 2024.1.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2024.1.4/bin/ninja/win/x64/ninja.exe" -DCMAKE_TOOLCHAIN_FILE=C:\Users\ASUS\.vcpkg-clion\vcpkg\scripts\buildsystems\vcpkg.cmake -DVCPKG_TARGET_TRIPLET=x64-mingw-dynamic -G Ninja -S "C:\Users\ASUS\Desktop\Efes Sensor Project\Database-GUI" -B "C:\Users\ASUS\Desktop\Efes Sensor Project\Database-GUI\cmake-build-release"
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
+-- Including Win32 support
+-- Looking for dinput.h
+-- Looking for dinput.h - found
+-- Looking for xinput.h
+-- Looking for xinput.h - found
+-- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
+-- Documentation generation requires Doxygen 1.9.8 or later
+-- Found OpenGL: opengl32   
+-- Using c++ standard c++23
+-- CMake version: 3.28.1
+-- Project version: 3.3.1
+-- CMAKE_CXX_COMPILER 'C:/Program Files/JetBrains/CLion 2024.1.4/bin/mingw/bin/g++.exe' 'GNU' '13.1.0'
+-- CMAKE_CXX_FLAGS                ' -Wall -Wextra -Wpedantic -Wswitch-enum -Wshadow -Wno-long-long'
+-- CMAKE_CXX_FLAGS_RELEASE        '-O3 -DNDEBUG'
+-- Compile sqlite3 from source in subdirectory
+CMake Warning at C:/Users/ASUS/.vcpkg-clion/vcpkg/scripts/buildsystems/vcpkg.cmake:857 (_find_package):
+  By not providing "FindPythonInterp.cmake" in CMAKE_MODULE_PATH this project
+  has asked CMake to find a package configuration file provided by
+  "PythonInterp", but CMake did not find one.
+
+  Could not find a package configuration file provided by "PythonInterp" with
+  any of the following names:
+
+    PythonInterpConfig.cmake
+    pythoninterp-config.cmake
+
+  Add the installation prefix of "PythonInterp" to CMAKE_PREFIX_PATH or set
+  "PythonInterp_DIR" to a directory containing one of the above files.  If
+  "PythonInterp" provides a separate development package or SDK, be sure it
+  has been installed.
+Call Stack (most recent call first):
+  cmake-build-release/_deps/sqlite_cpp-src/CMakeLists.txt:390 (find_package)
+
+
+-- Could NOT find cppcheck
+-- SQLITECPP_RUN_DOXYGEN OFF
+-- SQLITECPP_BUILD_EXAMPLES OFF
+-- SQLITECPP_BUILD_TESTS OFF
+-- Using the multi-header code from C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-release/_deps/json-src/include/
+-- Configuring done (229.8s)
+-- Generating done (0.0s)
+CMake Warning:
+  Manually-specified variables were not used by the project:
+
+    CMAKE_TOOLCHAIN_FILE
+
+
+-- Build files have been written to: C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-release

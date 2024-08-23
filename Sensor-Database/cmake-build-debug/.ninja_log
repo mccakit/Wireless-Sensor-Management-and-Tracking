@@ -1,0 +1,14 @@
+# ninja log v6
+45	886	7453274603383549	_deps/sqlite_cpp-build/CMakeFiles/SQLiteCpp.dir/src/Exception.cpp.obj	45f7de07d6ed77a6
+49	2231	7453274603413427	_deps/sqlite_cpp-build/CMakeFiles/SQLiteCpp.dir/src/Savepoint.cpp.obj	c40b6eb60ef7abf1
+37	1559	7453274603293841	_deps/sqlite_cpp-build/CMakeFiles/SQLiteCpp.dir/src/Column.cpp.obj	e9e617884bc43ab8
+59	2038	7453274603523064	_deps/sqlite_cpp-build/CMakeFiles/SQLiteCpp.dir/src/Transaction.cpp.obj	5c2bdc81518355c
+33	2136	7453274603254036	_deps/sqlite_cpp-build/CMakeFiles/SQLiteCpp.dir/src/Backup.cpp.obj	53cc7b1e31c0bcd0
+53	2419	7453274603463259	_deps/sqlite_cpp-build/CMakeFiles/SQLiteCpp.dir/src/Statement.cpp.obj	534b34bc5381dce6
+41	2355	7453274603333693	_deps/sqlite_cpp-build/CMakeFiles/SQLiteCpp.dir/src/Database.cpp.obj	25306c726ad82cd3
+65	3934	7453274603572893	CMakeFiles/Sensor_Database.dir/main.cpp.obj	7a52731f9e8d7084
+3	6524	7453203797351220	_deps/sqlite_cpp-build/sqlite3/CMakeFiles/sqlite3.dir/sqlite3.c.obj	68512d4b1c8377e7
+6524	6708	7453203862560567	_deps/sqlite_cpp-build/sqlite3/libsqlite3.a	742a1567eda53ac1
+2419	2600	7453274627119813	_deps/sqlite_cpp-build/libSQLiteCpp.a	5635bee588da4988
+3934	5479	7453274642266366	Sensor_Database.exe	7784e8d7dcc972e1
+3	3277	7460579298206250	build.ninja	cfff90342b0b67ab

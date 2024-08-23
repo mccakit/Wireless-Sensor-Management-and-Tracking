@@ -1,0 +1,21 @@
+# ninja log v6
+3	76	7461047722035410	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	e411d2f27e6343b6
+3	76	7461047722035410	C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	e411d2f27e6343b6
+76	13601	7461047857308526	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	62a986845198c70e
+76	13601	7461047857308526	C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	62a986845198c70e
+13602	13719	7461047857358358	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	c2e8d73e8872cd7f
+13602	13719	7461047857358358	C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	c2e8d73e8872cd7f
+13719	13758	7461047858880711	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	7cb1a5ce064632c6
+13719	13758	7461047858880711	C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	7cb1a5ce064632c6
+13758	13801	7461047859309340	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	9a9f6b58e5c6e69a
+13758	13801	7461047859309340	C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	9a9f6b58e5c6e69a
+13801	13843	7461047859720913	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	8d6bfd9dd8096fa5
+13801	13843	7461047859720913	C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	8d6bfd9dd8096fa5
+13843	13883	7461047860129470	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	a4933efd8ea189cd
+13843	13883	7461047860129470	C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	a4933efd8ea189cd
+13883	13925	7461047860548156	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	555c6beb92928
+13883	13925	7461047860548156	C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	555c6beb92928
+13925	13983	7461047861126910	CMakeFiles/glfw-populate-complete	497ec271577707e9
+13925	13983	7461047861126910	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	497ec271577707e9
+13925	13983	7461047861126910	C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/glfw-subbuild/CMakeFiles/glfw-populate-complete	497ec271577707e9
+13925	13983	7461047861126910	C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	497ec271577707e9

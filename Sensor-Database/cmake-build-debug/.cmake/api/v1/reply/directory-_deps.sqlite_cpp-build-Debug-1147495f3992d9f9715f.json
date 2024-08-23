@@ -1,0 +1,125 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"cmake-build-debug/_deps/sqlite_cpp-src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 368,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 373,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 374,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 375,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 386,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "libraries",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"_deps/sqlite_cpp-build/libSQLiteCpp.a"
+			],
+			"targetId" : "SQLiteCpp::@6522ca9a45f69c115089",
+			"targetIndex" : 0,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "headers",
+			"destination" : "include",
+			"paths" : 
+			[
+				{
+					"from" : "cmake-build-debug/_deps/sqlite_cpp-src/include",
+					"to" : "."
+				}
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/SQLiteCpp",
+			"exportName" : "SQLiteCppTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "sqlite3::@9fc3d48a98a2727db524",
+					"index" : 2
+				},
+				{
+					"id" : "SQLiteCpp::@6522ca9a45f69c115089",
+					"index" : 0
+				}
+			],
+			"paths" : 
+			[
+				"_deps/sqlite_cpp-build/CMakeFiles/Export/31d559fcedc0800e90eb93f071f3b915/SQLiteCppTargets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "share/SQLiteCpp",
+			"paths" : 
+			[
+				"cmake-build-debug/_deps/sqlite_cpp-src/package.xml"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/SQLiteCpp",
+			"paths" : 
+			[
+				"cmake-build-debug/_deps/sqlite_cpp-build/cmake/SQLiteCppConfig.cmake",
+				"cmake-build-debug/_deps/sqlite_cpp-build/cmake/SQLiteCppConfigVersion.cmake"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/sqlite_cpp-build",
+		"source" : "cmake-build-debug/_deps/sqlite_cpp-src"
+	}
+}

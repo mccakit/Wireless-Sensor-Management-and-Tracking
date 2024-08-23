@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/sqlite_cpp-subbuild/CMakeFiles/sqlite_cpp-populate"
+		},
+		{
+			"file" : "C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/sqlite_cpp-subbuild/CMakeFiles/sqlite_cpp-populate.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/sqlite_cpp-subbuild/CMakeFiles/sqlite_cpp-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/sqlite_cpp-subbuild/sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/sqlite_cpp-subbuild/sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/sqlite_cpp-subbuild/sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/sqlite_cpp-subbuild/sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/sqlite_cpp-subbuild/sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/sqlite_cpp-subbuild/sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/sqlite_cpp-subbuild/sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/sqlite_cpp-subbuild/sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sqlite_cpp-populate"
+		],
+		"name" : "sqlite_cpp-populate"
+	}
+}

@@ -1,0 +1,37 @@
+# ninja log v6
+3	65	7453183151886498	sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-mkdir	fb0e25ea04ab2f3d
+3	65	7453183151886498	C:/Users/ASUS/Desktop/Efes Sensor Project/Sensor-Database/cmake-build-debug/_deps/sqlite_cpp-subbuild/sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-mkdir	fb0e25ea04ab2f3d
+1564	1619	7460579007581764	C:/Users/ASUS/Desktop/Efes Sensor Project/Sensor-Database/cmake-build-debug/_deps/sqlite_cpp-subbuild/sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-patch	b1815c3b6002d76f
+66	27529	7453183426523862	sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-download	723c1c87c947ff4a
+1776	1821	7460579009619702	sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-test	947a1a76ec24130a
+66	27529	7453183426523862	C:/Users/ASUS/Desktop/Efes Sensor Project/Sensor-Database/cmake-build-debug/_deps/sqlite_cpp-subbuild/sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-download	723c1c87c947ff4a
+7	1564	7460578991525415	sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-update	ba064b3ffe182a35
+7	1564	7460578991525415	C:/Users/ASUS/Desktop/Efes Sensor Project/Sensor-Database/cmake-build-debug/_deps/sqlite_cpp-subbuild/sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-update	ba064b3ffe182a35
+1564	1619	7460579007581764	sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-patch	b1815c3b6002d76f
+1678	1730	7460579008707966	sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-build	975b0c2d90d6686d
+1776	1821	7460579009619702	C:/Users/ASUS/Desktop/Efes Sensor Project/Sensor-Database/cmake-build-debug/_deps/sqlite_cpp-subbuild/sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-test	947a1a76ec24130a
+1619	1678	7460579008189712	sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-configure	1200ea585db9d830
+1619	1678	7460579008189712	C:/Users/ASUS/Desktop/Efes Sensor Project/Sensor-Database/cmake-build-debug/_deps/sqlite_cpp-subbuild/sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-configure	1200ea585db9d830
+1678	1730	7460579008707966	C:/Users/ASUS/Desktop/Efes Sensor Project/Sensor-Database/cmake-build-debug/_deps/sqlite_cpp-subbuild/sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-build	975b0c2d90d6686d
+1730	1776	7460579009168150	sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-install	2c224f6dd105cc79
+1730	1776	7460579009168150	C:/Users/ASUS/Desktop/Efes Sensor Project/Sensor-Database/cmake-build-debug/_deps/sqlite_cpp-subbuild/sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-install	2c224f6dd105cc79
+1822	1886	7460579010276556	CMakeFiles/sqlite_cpp-populate-complete	7f59897b28db0ba1
+1822	1886	7460579010276556	sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-done	7f59897b28db0ba1
+1822	1886	7460579010276556	C:/Users/ASUS/Desktop/Efes Sensor Project/Sensor-Database/cmake-build-debug/_deps/sqlite_cpp-subbuild/CMakeFiles/sqlite_cpp-populate-complete	7f59897b28db0ba1
+1822	1886	7460579010276556	C:/Users/ASUS/Desktop/Efes Sensor Project/Sensor-Database/cmake-build-debug/_deps/sqlite_cpp-subbuild/sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-done	7f59897b28db0ba1
+7	1468	7460579277662173	sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-update	ba064b3ffe182a35
+7	1468	7460579277662173	C:/Users/ASUS/Desktop/Efes Sensor Project/Sensor-Database/cmake-build-debug/_deps/sqlite_cpp-subbuild/sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-update	ba064b3ffe182a35
+1468	1518	7460579292740251	sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-patch	b1815c3b6002d76f
+1468	1518	7460579292740251	C:/Users/ASUS/Desktop/Efes Sensor Project/Sensor-Database/cmake-build-debug/_deps/sqlite_cpp-subbuild/sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-patch	b1815c3b6002d76f
+1518	1559	7460579293148837	sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-configure	1200ea585db9d830
+1518	1559	7460579293148837	C:/Users/ASUS/Desktop/Efes Sensor Project/Sensor-Database/cmake-build-debug/_deps/sqlite_cpp-subbuild/sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-configure	1200ea585db9d830
+1559	1599	7460579293547561	sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-build	975b0c2d90d6686d
+1559	1599	7460579293547561	C:/Users/ASUS/Desktop/Efes Sensor Project/Sensor-Database/cmake-build-debug/_deps/sqlite_cpp-subbuild/sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-build	975b0c2d90d6686d
+1599	1639	7460579293948418	sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-install	2c224f6dd105cc79
+1599	1639	7460579293948418	C:/Users/ASUS/Desktop/Efes Sensor Project/Sensor-Database/cmake-build-debug/_deps/sqlite_cpp-subbuild/sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-install	2c224f6dd105cc79
+1639	1678	7460579294346557	sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-test	947a1a76ec24130a
+1639	1678	7460579294346557	C:/Users/ASUS/Desktop/Efes Sensor Project/Sensor-Database/cmake-build-debug/_deps/sqlite_cpp-subbuild/sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-test	947a1a76ec24130a
+1678	1738	7460579294933671	CMakeFiles/sqlite_cpp-populate-complete	7f59897b28db0ba1
+1678	1738	7460579294933671	sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-done	7f59897b28db0ba1
+1678	1738	7460579294933671	C:/Users/ASUS/Desktop/Efes Sensor Project/Sensor-Database/cmake-build-debug/_deps/sqlite_cpp-subbuild/CMakeFiles/sqlite_cpp-populate-complete	7f59897b28db0ba1
+1678	1738	7460579294933671	C:/Users/ASUS/Desktop/Efes Sensor Project/Sensor-Database/cmake-build-debug/_deps/sqlite_cpp-subbuild/sqlite_cpp-populate-prefix/src/sqlite_cpp-populate-stamp/sqlite_cpp-populate-done	7f59897b28db0ba1

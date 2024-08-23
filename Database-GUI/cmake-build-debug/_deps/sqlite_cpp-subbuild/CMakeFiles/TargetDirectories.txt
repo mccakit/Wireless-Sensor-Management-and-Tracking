@@ -1,0 +1,3 @@
+C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/sqlite_cpp-subbuild/CMakeFiles/sqlite_cpp-populate.dir
+C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/sqlite_cpp-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/Desktop/Efes Sensor Project/Database-GUI/cmake-build-debug/_deps/sqlite_cpp-subbuild/CMakeFiles/rebuild_cache.dir
